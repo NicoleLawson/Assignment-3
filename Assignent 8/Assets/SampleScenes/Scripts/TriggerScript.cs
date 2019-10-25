@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/* Nicole Lawson
+ * Trigger Script
+ * Assignment 8
+ * Makes calls to SpawnManager and UIManager when the player enters it
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

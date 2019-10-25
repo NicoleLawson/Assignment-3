@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/* Nicole Lawson
+ * SpawnManager
+ * Assignment 8
+ * Singleton script that manages the spawning of small boxes
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

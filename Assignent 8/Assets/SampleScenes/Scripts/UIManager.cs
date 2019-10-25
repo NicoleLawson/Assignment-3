@@ -1,4 +1,10 @@
-﻿using System.Collections;
+﻿/* Nicole Lawson
+ * UIManager
+ * Assignment 8
+ * Singleton script that manages the ui
+ */ 
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
