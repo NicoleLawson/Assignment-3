@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Nicole Lawson
+ * ForceForce
+ * Assignment 9
+ * Adds the Force force to an object
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

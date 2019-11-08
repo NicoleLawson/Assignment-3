@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Nicole Lawson
+ * PlatformRiding
+ * Assignment 9
+ * Copied from the link. Allows the player to ride on a moving platform.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

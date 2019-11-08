@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Nicole Lawson
+ * VelocityChangeForce
+ * Assignment 9
+ * Adds the VelocityChange force to an object
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

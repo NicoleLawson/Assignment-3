@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Nicole Lawson
+ * MovingPlatform
+ * Assignment 9
+ * Copied from the link. Allows a platform to move.
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

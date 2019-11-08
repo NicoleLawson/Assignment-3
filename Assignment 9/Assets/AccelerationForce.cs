@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Nicole Lawson
+ * AccelerationForce
+ * Assignment 9
+ * Adds the Acceleration force to an object
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 

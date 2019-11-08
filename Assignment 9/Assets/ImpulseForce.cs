@@ -1,4 +1,11 @@
-﻿using System.Collections;
+﻿/*
+ * Nicole Lawson
+ * ImpulseForce
+ * Assignment 9
+ * Adds the Impulse force to an object
+ */
+
+using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 
